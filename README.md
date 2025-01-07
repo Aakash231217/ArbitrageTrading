@@ -52,3 +52,8 @@ npm run dev
 #### The application will be available at http://localhost:5173
 
 
+![image](https://github.com/user-attachments/assets/f108b4d5-ef6b-4ee8-b07d-17d687efe639)
+
+
+
+![image](https://github.com/user-attachments/assets/1cdf6d8e-ceaa-4c06-8f6d-020da7d6e64d)
